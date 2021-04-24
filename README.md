@@ -7,6 +7,7 @@ This is the main folder that contatins all the images. In here, is a folder call
 
 If you want to look at where the tumors are in the original images refer to "Label draft.pptx".
 
-In "Partial robotic nephrectomy cropped photos" there are 44 images. 30 images were extracted into training set, 9 images were extracted into validation set, 5 images were extracted into test set.
+In "Partial robotic nephrectomy cropped photos" there are 44 images. 30 images were extracted into training set, 9 images were extracted into validation set, 5 images were extracted into test set. 
+Since the images will be extracted from the cropped photos folders everything from the Image dataset folder copy (classification) will be copied into Thesis data(1st), Thesis data(2nd) and Thesis data(3rd).
 
 
