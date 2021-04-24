@@ -7,3 +7,4 @@ This is the main folder that contatins all the images. In here, is a folder call
 
 If you want to look at where the tumors are in the original images refer to "Label draft.pptx".
 
+
