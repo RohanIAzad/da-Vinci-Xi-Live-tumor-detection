@@ -12,7 +12,7 @@ Since the images will be extracted from the cropped photos folders everything fr
 
 Now, Image augmentation was applied in the training set of Thesis data(1st) to make 1 image into 5 images. 
 
-Looking Thesis data (1st) fatty tissue training data there were 21 images. 21 x 5 = 105. So, teh first 21 images from the cancerous tissues, non cancerous tissue, fatty tissue were augemented to be 105 images in all cases. SO, there are 315 images for the training set in the 2nd dataset. 32 images for validation and 20 images for testing.
+For teh 2nd dataset,looking Thesis data (1st) fatty tissue training data there were 21 images. 21 x 5 = 105. So, the first 21 images from the cancerous tissues, non cancerous tissue, fatty tissue were augemented to be 105 images in all cases. SO, there are 315 images for the training set in the 2nd dataset. 32 images for validation and 20 images for testing.
 
 For the 3rd dataset, fatty tissue was not taken into account. From the 1st dataset there were 30 cancerous tissue and 40 non cancerous tissue for the training set. So, in order to keep the numbers equal, all the cancerous tissues were augmented but 30 out of 40 non cancerous tissues were augmented. That resulted in 150 training cancerous tissue and 150 training non cancerous tissue images.
 
