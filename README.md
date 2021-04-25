@@ -16,3 +16,7 @@ For the 2nd dataset,looking Thesis data (1st) fatty tissue training data there w
 
 For the 3rd dataset, fatty tissue was not taken into account. From the 1st dataset there were 30 cancerous tissue and 40 non cancerous tissue for the training set. So, in order to keep the numbers equal, all the cancerous tissues were augmented but 30 out of 40 non cancerous tissues were augmented. That resulted in 150 training cancerous tissue and 150 training non cancerous tissue images.
 
+**VGG-16 1st dataset notebook link:** Contains the link to a google colab notebook for the 1st dataset model.
+**VGG-16 2nd dataset notebook link:** Contains the link to a google colab notebook for the 2nd dataset model.
+**VGG-16 3rd dataset notebook link:** Contains the link to a google colab notebook for the 3rd dataset model.
+
