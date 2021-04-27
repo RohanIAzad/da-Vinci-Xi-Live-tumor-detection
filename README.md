@@ -22,3 +22,7 @@ For the 3rd dataset, fatty tissue was not taken into account. From the 1st datas
 
 **VGG-16 3rd dataset notebook link:** Contains the link to a google colab notebook for the 3rd dataset model.
 
+**VGG-16 2nd dataset saved model link:** The link contains the saved model used for the second dataset. The codes for saving the models are included in the notebook link "VGG-16 2nd dataset notebook link". This link is here as a backup. 
+
+**VGG-16 3rd dataset saved model link:** The link contains the saved model used for the third dataset. The codes for saving the models are included in the notebook link VGG-16 3rd dataset notebook link. This link is here as a backup. 
+
