@@ -1,4 +1,12 @@
 # da-Vinci-Xi-Live-tumor-detection: Project Overview
+da Vinci Xi is a surgical robot that enables minimally invasive surgery. 
+* Created a tool that would help surgeons identify cancerous tumors real time during surgery.
+* Currently, surgeons rely on their experience to identify cancerous tissue during surgery. There is no functionality built into the surgical robot that would help surgeons identify tumors real time during surgery.
+* The process is carried out in 2 stages. In the first global range detection is done using YOLOv4 and then in the second stage close range detectio is done by VGG-16.
+* Here is photo of the components of the robot.
+![](image/Console.jpg)    ![](image/Patient_Cart.png)  ![](image/Vision_cart.png)  
+
+
 This repository contains the google drive link for the dataset and code used for the paper "Enabling da Vinci Xi Robot with Live Tumor detection via Explainable Deep Learning"
 
 # Image dataset folder copy(classification) link**
