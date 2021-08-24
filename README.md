@@ -1,4 +1,4 @@
-# da-Vinci-Xi-Live-tumor-detection
+# da-Vinci-Xi-Live-tumor-detection: Project Overview
 This repository contains the google drive link for the dataset and code used for the paper "Enabling da Vinci Xi Robot with Live Tumor detection via Explainable Deep Learning"
 
 **Image dataset folder copy(classification) link**
