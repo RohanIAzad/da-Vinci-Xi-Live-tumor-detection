@@ -26,7 +26,7 @@ For the 2nd dataset,looking into Thesis data (1st) fatty tissue training data th
 
 For the 3rd dataset, fatty tissue was not taken into account. From the 1st dataset there were 30 cancerous tissue and 40 non cancerous tissue for the training set. So, in order to keep the numbers equal, all the cancerous tissues were augmented but 30 out of 40 non cancerous tissues were augmented. That resulted in 150 training cancerous tissue and 150 training non cancerous tissue images.
 
-# Process / Share
+# 2. Process / Share
 
 A base model was evaluated in terms of how accurately the model was able to identify cancerous tissue from the images. From the base model the variable that were cahnged to assess the performances are-
 1. Number of layers (Alexnet to VGG-16 to ResNet-50)
@@ -45,11 +45,11 @@ More information on this in the google colab links below.
 
 **VGG-16 3rd dataset saved model link:** The link contains the saved model used for the third dataset. The codes for saving the models are included in the notebook link VGG-16 3rd dataset notebook link. This link is here as a backup. 
 
-# Analysis
+# 3. Analysis
 
 The cancer cell detection performance of the models were evaluated in 2 ways-
 1. Visual evaluation
 2. Metric evaluation
 
-# Act
+# 4. Act
 The data collected for this analysis were from Macquarie University Hospital, Sydney, Australia and the data collected were only for Kidney cancer.So, the sample is not representative of teh entire population. More data will have to be collected for the results to be more reliable in term sof the entire population. 
