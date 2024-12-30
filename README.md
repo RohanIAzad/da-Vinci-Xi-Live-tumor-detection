@@ -13,7 +13,7 @@ This repository contains the google drive link for the dataset and code used for
 # 1. Prepare
 ### Image dataset folder copy(classification) link**
 
-This is the main folder that contatins all the images. In here, is a folder called "Partial robotic nephrectomy" which contains all the images with cancerous tissue. There is another folder called "Kidney" which contains all the images with non-cancerous tissue. The images were further cropped so that the robotic arms from the original images don't show up. The cancerous tissue images are in teh folder called "Partial robotic nephrectomy cropped photos" and the non-cancerous tissues are in the folder called "Kidney cropped photos". The fatty tissues are in "Fat cropped photos". 
+This is the main folder that contatins all the images. In here, is a folder called "Partial robotic nephrectomy" which contains all the images with cancerous tissue. There is another folder called "Kidney" which contains all the images with non-cancerous tissue. The images were further cropped so that the robotic arms from the original images don't show up. The cancerous tissue images are in the folder called "Partial robotic nephrectomy cropped photos" and the non-cancerous tissues are in the folder called "Kidney cropped photos". The fatty tissues are in "Fat cropped photos". 
 
 If you want to look at where the tumors are in the original images refer to "Label draft.pptx".
 
