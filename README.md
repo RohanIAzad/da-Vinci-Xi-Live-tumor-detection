@@ -52,4 +52,4 @@ The cancer cell detection performance of the models were evaluated in 2 ways-
 2. Metric evaluation
 
 # 4. Act
-The data collected for this analysis were from Macquarie University Hospital, Sydney, Australia and the data collected were only for Kidney cancer.So, the sample is not representative of teh entire population. More data will have to be collected for the results to be more reliable in term sof the entire population. 
+The data collected for this analysis were from Macquarie University Hospital, Sydney, Australia and the data collected were only for Kidney cancer.So, the sample is not representative of the entire population. More data will have to be collected for the results to be more reliable in terms of the entire population. 
